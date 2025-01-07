@@ -55,7 +55,6 @@ Editors review ads and decide their outcome, which is logged for auditing.
 ### Revision Handling
 Rejected ads are queued for revision and Marketing Department is notified, ensuring efficient feedback loops.
 
----
 
 ## Directory Structure
 ```scss
