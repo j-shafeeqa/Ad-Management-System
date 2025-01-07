@@ -1,0 +1,84 @@
+Jan 04, 2025 10:46:49 PM com.example.gradleproject1.MarketingDepartment validateAdvertInput
+INFO: Advertisement validation successful for ID: 101
+Jan 04, 2025 10:46:49 PM com.example.gradleproject1.MarketingDepartment submitAdvertForReview
+INFO: Marketing Jane Marketing submitting validated advert ID: 101
+Jan 04, 2025 10:46:49 PM com.example.gradleproject1.Editor performRole
+INFO: Editor John Editor reviewing advert ID: 101
+Jan 04, 2025 10:46:49 PM com.example.gradleproject1.Editor performRole
+INFO: Editor John Editor approved advert ID: 101
+Jan 04, 2025 10:46:49 PM com.example.gradleproject1.MarketingDepartment validateAdvertInput
+INFO: Advertisement validation successful for ID: 102
+Jan 04, 2025 10:46:49 PM com.example.gradleproject1.MarketingDepartment submitAdvertForReview
+INFO: Marketing Jane Marketing submitting validated advert ID: 102
+Jan 04, 2025 10:46:49 PM com.example.gradleproject1.Editor performRole
+INFO: Editor John Editor reviewing advert ID: 102
+Jan 04, 2025 10:46:49 PM com.example.gradleproject1.Editor performRole
+INFO: Editor John Editor approved advert ID: 102
+Jan 04, 2025 10:53:00 PM com.example.gradleproject1.MarketingDepartment validateAdvertInput
+INFO: Advertisement validation successful for ID: 101
+Jan 04, 2025 10:53:00 PM com.example.gradleproject1.MarketingDepartment submitAdvertForReview
+INFO: Marketing Jane Marketing submitting validated advert ID: 101
+Jan 04, 2025 10:53:00 PM com.example.gradleproject1.Editor performRole
+INFO: Editor John Editor reviewing advert ID: 101
+Jan 04, 2025 10:53:00 PM com.example.gradleproject1.Editor performRole
+INFO: Editor John Editor approved advert ID: 101
+Jan 04, 2025 10:53:00 PM com.example.gradleproject1.MarketingDepartment validateAdvertInput
+INFO: Advertisement validation successful for ID: 102
+Jan 04, 2025 10:53:00 PM com.example.gradleproject1.MarketingDepartment submitAdvertForReview
+INFO: Marketing Jane Marketing submitting validated advert ID: 102
+Jan 04, 2025 10:53:00 PM com.example.gradleproject1.Editor performRole
+INFO: Editor John Editor reviewing advert ID: 102
+Jan 04, 2025 10:53:00 PM com.example.gradleproject1.Editor performRole
+INFO: Editor John Editor approved advert ID: 102
+Jan 04, 2025 10:53:00 PM com.example.gradleproject1.Editor performRole
+INFO: Editor John Editor reviewing advert ID: 102
+Jan 04, 2025 10:53:00 PM com.example.gradleproject1.Editor performRole
+INFO: Editor John Editor approved advert ID: 102
+Jan 04, 2025 10:55:22 PM com.example.gradleproject1.MarketingDepartment validateAdvertInput
+INFO: Advertisement validation successful for ID: 101
+Jan 04, 2025 10:55:22 PM com.example.gradleproject1.MarketingDepartment submitAdvertForReview
+INFO: Marketing Jane Marketing submitting validated advert ID: 101
+Jan 04, 2025 10:55:22 PM com.example.gradleproject1.Editor performRole
+INFO: Editor John Editor reviewing advert ID: 101
+Jan 04, 2025 10:55:22 PM com.example.gradleproject1.Editor performRole
+INFO: Editor John Editor approved advert ID: 101
+Jan 04, 2025 10:55:22 PM com.example.gradleproject1.MarketingDepartment validateAdvertInput
+INFO: Advertisement validation successful for ID: 102
+Jan 04, 2025 10:55:22 PM com.example.gradleproject1.MarketingDepartment submitAdvertForReview
+INFO: Marketing Jane Marketing submitting validated advert ID: 102
+Jan 04, 2025 10:55:22 PM com.example.gradleproject1.Editor performRole
+INFO: Editor John Editor reviewing advert ID: 102
+Jan 04, 2025 10:55:22 PM com.example.gradleproject1.Editor performRole
+INFO: Editor John Editor approved advert ID: 102
+Jan 04, 2025 10:56:02 PM com.example.gradleproject1.MarketingDepartment validateAdvertInput
+INFO: Advertisement validation successful for ID: 101
+Jan 04, 2025 10:56:02 PM com.example.gradleproject1.MarketingDepartment submitAdvertForReview
+INFO: Marketing Jane Marketing submitting validated advert ID: 101
+Jan 04, 2025 10:56:02 PM com.example.gradleproject1.Editor performRole
+INFO: Editor John Editor reviewing advert ID: 101
+Jan 04, 2025 10:56:02 PM com.example.gradleproject1.Editor performRole
+INFO: Editor John Editor approved advert ID: 101
+Jan 04, 2025 10:56:15 PM com.example.gradleproject1.MarketingDepartment validateAdvertInput
+INFO: Advertisement validation successful for ID: 101
+Jan 04, 2025 10:56:15 PM com.example.gradleproject1.MarketingDepartment submitAdvertForReview
+INFO: Marketing Jane Marketing submitting validated advert ID: 101
+Jan 04, 2025 10:56:15 PM com.example.gradleproject1.Editor performRole
+INFO: Editor John Editor reviewing advert ID: 101
+Jan 04, 2025 10:56:15 PM com.example.gradleproject1.Editor performRole
+INFO: Editor John Editor approved advert ID: 101
+Jan 05, 2025 11:27:20 AM com.example.gradleproject1.MarketingDepartment validateAdvertInput
+INFO: Advertisement validation successful for ID: 101
+Jan 05, 2025 11:27:21 AM com.example.gradleproject1.MarketingDepartment submitAdvertForReview
+INFO: Marketing Jane Marketing submitting validated advert ID: 101
+Jan 05, 2025 11:27:21 AM com.example.gradleproject1.Editor performRole
+INFO: Editor John Editor reviewing advert ID: 101
+Jan 05, 2025 11:27:21 AM com.example.gradleproject1.Editor performRole
+INFO: Editor John Editor approved advert ID: 101
+Jan 05, 2025 11:27:30 AM com.example.gradleproject1.MarketingDepartment validateAdvertInput
+INFO: Advertisement validation successful for ID: 101
+Jan 05, 2025 11:27:30 AM com.example.gradleproject1.MarketingDepartment submitAdvertForReview
+INFO: Marketing Jane Marketing submitting validated advert ID: 101
+Jan 05, 2025 11:27:30 AM com.example.gradleproject1.Editor performRole
+INFO: Editor John Editor reviewing advert ID: 101
+Jan 05, 2025 11:27:30 AM com.example.gradleproject1.Editor performRole
+INFO: Editor John Editor approved advert ID: 101

@@ -1,0 +1,22 @@
+Jan 04, 2025 10:46:49 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 101
+Jan 04, 2025 10:46:49 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 102
+Jan 04, 2025 10:53:00 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 101
+Jan 04, 2025 10:53:00 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 102
+Jan 04, 2025 10:53:00 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 102
+Jan 04, 2025 10:55:22 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 101
+Jan 04, 2025 10:55:22 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 102
+Jan 04, 2025 10:56:02 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 101
+Jan 04, 2025 10:56:15 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 101
+Jan 05, 2025 11:27:21 AM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 101
+Jan 05, 2025 11:27:30 AM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 101

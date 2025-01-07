@@ -1,0 +1,1150 @@
+Jan 05, 2025 12:45:09 PM com.example.gradleproject1.MarketingDepartment validateAdvertInput
+INFO: Advertisement validation successful for ID: 101
+Jan 05, 2025 12:45:09 PM com.example.gradleproject1.MarketingDepartment submitAdvertForReview
+INFO: Marketing Jane Marketing submitting validated advert ID: 101
+Jan 05, 2025 12:45:09 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue
+Jan 05, 2025 12:45:09 PM com.example.gradleproject1.Editor performRole
+INFO: Editor John Editor reviewing advert ID: 101
+Jan 05, 2025 12:45:09 PM com.example.gradleproject1.AdApprovalHandler processAdvertisement
+INFO: Processing advertisement ID: 101
+Jan 05, 2025 12:45:09 PM com.example.gradleproject1.AdApprovalHandler approveAdvertisement
+INFO: Editor John Editor approved advert ID: 101
+Jan 05, 2025 12:45:09 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 101
+Jan 05, 2025 12:45:09 PM com.example.gradleproject1.SystemManager executeCommands
+INFO: Command executed and added to history
+Jan 05, 2025 12:48:28 PM com.example.gradleproject1.MarketingDepartment validateAdvertInput
+INFO: Advertisement validation successful for ID: 101
+Jan 05, 2025 12:48:28 PM com.example.gradleproject1.MarketingDepartment submitAdvertForReview
+INFO: Marketing Jane Marketing submitting validated advert ID: 101
+Jan 05, 2025 12:48:28 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue
+Jan 05, 2025 12:48:28 PM com.example.gradleproject1.Editor performRole
+INFO: Editor John Editor reviewing advert ID: 101
+Jan 05, 2025 12:48:28 PM com.example.gradleproject1.AdApprovalHandler processAdvertisement
+INFO: Processing advertisement ID: 101
+Jan 05, 2025 12:48:28 PM com.example.gradleproject1.AdApprovalHandler approveAdvertisement
+INFO: Editor John Editor approved advert ID: 101
+Jan 05, 2025 12:48:28 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 101
+Jan 05, 2025 12:48:28 PM com.example.gradleproject1.SystemManager executeCommands
+INFO: Command executed and added to history
+Jan 05, 2025 4:11:16 PM com.example.gradleproject1.MarketingDepartment validateAdvertInput
+INFO: Advertisement validation successful for ID: 101
+Jan 05, 2025 4:11:16 PM com.example.gradleproject1.MarketingDepartment submitAdvertForReview
+INFO: Marketing Jane Marketing submitting validated advert ID: 101
+Jan 05, 2025 4:11:16 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue
+Jan 05, 2025 4:11:16 PM com.example.gradleproject1.Editor performRole
+INFO: Editor John Editor reviewing advert ID: 101
+Jan 05, 2025 4:11:16 PM com.example.gradleproject1.AdApprovalHandler processAdvertisement
+INFO: Processing advertisement ID: 101
+Jan 05, 2025 4:11:16 PM com.example.gradleproject1.AdApprovalHandler approveAdvertisement
+INFO: Editor John Editor approved advert ID: 101
+Jan 05, 2025 4:11:16 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 101
+Jan 05, 2025 4:11:16 PM com.example.gradleproject1.SystemManager executeCommands
+INFO: Command executed and added to history
+Jan 05, 2025 4:23:02 PM com.example.gradleproject1.MarketingDepartment validateAdvertInput
+INFO: Advertisement validation successful for ID: 101
+Jan 05, 2025 4:23:02 PM com.example.gradleproject1.MarketingDepartment submitAdvertForReview
+INFO: Marketing Jane Marketing submitting validated advert ID: 101
+Jan 05, 2025 4:23:02 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue
+Jan 05, 2025 4:23:02 PM com.example.gradleproject1.Editor performRole
+INFO: Editor John Editor reviewing advert ID: 101
+Jan 05, 2025 4:23:02 PM com.example.gradleproject1.AdApprovalHandler processAdvertisement
+INFO: Processing advertisement ID: 101
+Jan 05, 2025 4:23:02 PM com.example.gradleproject1.AdApprovalHandler approveAdvertisement
+INFO: Editor John Editor approved advert ID: 101
+Jan 05, 2025 4:23:02 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 101
+Jan 05, 2025 4:23:02 PM com.example.gradleproject1.SystemManager executeCommands
+INFO: Command executed and added to history
+Jan 05, 2025 4:24:01 PM com.example.gradleproject1.MarketingDepartment validateAdvertInput
+INFO: Advertisement validation successful for ID: 101
+Jan 05, 2025 4:24:02 PM com.example.gradleproject1.MarketingDepartment submitAdvertForReview
+INFO: Marketing Marketing submitting validated advert ID: 101
+Jan 05, 2025 4:24:02 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue
+Jan 05, 2025 4:24:02 PM com.example.gradleproject1.Editor performRole
+INFO: Editor Editor reviewing advert ID: 101
+Jan 05, 2025 4:24:02 PM com.example.gradleproject1.AdApprovalHandler processAdvertisement
+INFO: Processing advertisement ID: 101
+Jan 05, 2025 4:24:02 PM com.example.gradleproject1.AdApprovalHandler approveAdvertisement
+INFO: Editor Editor approved advert ID: 101
+Jan 05, 2025 4:24:02 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 101
+Jan 05, 2025 4:24:02 PM com.example.gradleproject1.SystemManager executeCommands
+INFO: Command executed and added to history
+Jan 05, 2025 4:24:56 PM com.example.gradleproject1.MarketingDepartment validateAdvertInput
+INFO: Advertisement validation successful for ID: 101
+Jan 05, 2025 4:24:56 PM com.example.gradleproject1.MarketingDepartment submitAdvertForReview
+INFO: Marketing Jane submitting validated advert ID: 101
+Jan 05, 2025 4:24:56 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue
+Jan 05, 2025 4:24:56 PM com.example.gradleproject1.Editor performRole
+INFO: Editor John reviewing advert ID: 101
+Jan 05, 2025 4:24:56 PM com.example.gradleproject1.AdApprovalHandler processAdvertisement
+INFO: Processing advertisement ID: 101
+Jan 05, 2025 4:24:56 PM com.example.gradleproject1.AdApprovalHandler approveAdvertisement
+INFO: Editor John approved advert ID: 101
+Jan 05, 2025 4:24:56 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 101
+Jan 05, 2025 4:24:56 PM com.example.gradleproject1.SystemManager executeCommands
+INFO: Command executed and added to history
+Jan 05, 2025 4:32:36 PM com.example.gradleproject1.MarketingDepartment validateAdvertInput
+INFO: Advertisement validation successful for ID: 101
+Jan 05, 2025 4:32:36 PM com.example.gradleproject1.MarketingDepartment submitAdvertForReview
+INFO: Marketing Jane submitting validated advert ID: 101
+Jan 05, 2025 4:32:36 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue
+Jan 05, 2025 4:32:36 PM com.example.gradleproject1.Editor performRole
+INFO: Editor John reviewing advert ID: 101
+Jan 05, 2025 4:32:36 PM com.example.gradleproject1.AdApprovalHandler processAdvertisement
+INFO: Processing advertisement ID: 101
+Jan 05, 2025 4:32:36 PM com.example.gradleproject1.AdApprovalHandler approveAdvertisement
+INFO: Editor John approved advert ID: 101
+Jan 05, 2025 4:32:36 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 101
+Jan 05, 2025 4:32:36 PM com.example.gradleproject1.SystemManager executeCommands
+INFO: Command executed and added to history
+Jan 05, 2025 5:27:19 PM com.example.gradleproject1.SystemManager addCommand
+INFO: Command added to queue
+Jan 05, 2025 5:27:19 PM com.example.gradleproject1.SystemManager addCommand
+INFO: Command added to queue
+Jan 05, 2025 5:27:19 PM com.example.gradleproject1.Advertiser submitDetails
+INFO: Advertiser Details - ID: 1, Name: ACME Corp, Contact: +123-456-7890, Address: 123 Elm Street
+Jan 05, 2025 5:27:19 PM com.example.gradleproject1.MarketingDepartment processAdvertisement
+INFO: Processing advertisement ID: 101
+Jan 05, 2025 5:27:19 PM com.example.gradleproject1.SystemManager executeCommands
+INFO: Command executed successfully
+Jan 05, 2025 5:27:19 PM com.example.gradleproject1.Editor reviewAdvertisement
+INFO: Editor John Editor reviewing advert ID: 101
+Jan 05, 2025 5:27:19 PM com.example.gradleproject1.ProcessingCenter storeAdvertisement
+INFO: Stored approved advert ID: 101
+Jan 05, 2025 5:27:19 PM com.example.gradleproject1.Editor reviewAdvertisement
+INFO: Advertisement 101 approved
+Jan 05, 2025 5:27:19 PM com.example.gradleproject1.SystemManager executeCommands
+INFO: Command executed successfully
+Jan 05, 2025 5:27:19 PM com.example.gradleproject1.ReviewAdvertCommand undo
+INFO: Undoing review for advertisement ID: 101
+Jan 05, 2025 5:27:19 PM com.example.gradleproject1.SystemManager undoLastCommand
+INFO: Last command undone
+Jan 05, 2025 5:27:47 PM com.example.gradleproject1.MarketingDepartment validateAdvertInput
+INFO: Advertisement validation successful for ID: 101
+Jan 05, 2025 5:27:47 PM com.example.gradleproject1.MarketingDepartment submitAdvertForReview
+INFO: Marketing Jane submitting validated advert ID: 101
+Jan 05, 2025 5:27:47 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue
+Jan 05, 2025 5:27:47 PM com.example.gradleproject1.Editor performRole
+INFO: Editor John reviewing advert ID: 101
+Jan 05, 2025 5:27:47 PM com.example.gradleproject1.AdApprovalHandler processAdvertisement
+INFO: Processing advertisement ID: 101
+Jan 05, 2025 5:27:47 PM com.example.gradleproject1.AdApprovalHandler approveAdvertisement
+INFO: Editor John approved advert ID: 101
+Jan 05, 2025 5:27:47 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 101
+Jan 05, 2025 5:27:47 PM com.example.gradleproject1.SystemManager executeCommands
+INFO: Command executed and added to history
+Jan 05, 2025 5:40:00 PM com.example.gradleproject1.Advertiser submitDetails
+INFO: Advertiser details submitted: 1
+Jan 05, 2025 5:40:00 PM com.example.gradleproject1.MarketingDepartment submitAdvertForReview
+INFO: Marketing Jane submitting validated advert ID: 101
+Jan 05, 2025 5:40:00 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ReviewAdvertCommand
+Jan 05, 2025 5:40:00 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ReviewAdvertCommand
+Jan 05, 2025 5:40:00 PM com.example.gradleproject1.Editor reviewAdvertisement
+INFO: Editor John reviewing advert ID: 101
+Jan 05, 2025 5:40:00 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ApproveAdvertCommand
+Jan 05, 2025 5:40:00 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ApproveAdvertCommand
+Jan 05, 2025 5:40:00 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 101
+Jan 05, 2025 5:40:00 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ApproveAdvertCommand
+Jan 05, 2025 5:40:00 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ReviewAdvertCommand
+Jan 05, 2025 5:41:25 PM com.example.gradleproject1.Advertiser submitDetails
+INFO: Advertiser details submitted: 1
+Jan 05, 2025 5:41:25 PM com.example.gradleproject1.MarketingDepartment submitAdvertForReview
+INFO: Marketing Jane submitting validated advert ID: 101
+Jan 05, 2025 5:41:25 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ReviewAdvertCommand
+Jan 05, 2025 5:41:25 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ReviewAdvertCommand
+Jan 05, 2025 5:41:25 PM com.example.gradleproject1.Editor reviewAdvertisement
+INFO: Editor John reviewing advert ID: 101
+Jan 05, 2025 5:41:25 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ApproveAdvertCommand
+Jan 05, 2025 5:41:25 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ApproveAdvertCommand
+Jan 05, 2025 5:41:25 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 101
+Jan 05, 2025 5:41:25 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ApproveAdvertCommand
+Jan 05, 2025 5:41:25 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ReviewAdvertCommand
+Jan 05, 2025 5:43:35 PM com.example.gradleproject1.MarketingDepartment validateAdvertInput
+INFO: Advertisement validation successful for ID: 101
+Jan 05, 2025 5:43:36 PM com.example.gradleproject1.MarketingDepartment submitAdvertForReview
+INFO: Marketing Jane submitting validated advert ID: 101
+Jan 05, 2025 5:43:36 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue
+Jan 05, 2025 5:43:36 PM com.example.gradleproject1.Editor performRole
+INFO: Editor John reviewing advert ID: 101
+Jan 05, 2025 5:43:36 PM com.example.gradleproject1.AdApprovalHandler processAdvertisement
+INFO: Processing advertisement ID: 101
+Jan 05, 2025 5:43:36 PM com.example.gradleproject1.AdApprovalHandler approveAdvertisement
+INFO: Editor John approved advert ID: 101
+Jan 05, 2025 5:43:36 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 101
+Jan 05, 2025 5:43:36 PM com.example.gradleproject1.SystemManager executeCommands
+INFO: Command executed and added to history
+Jan 05, 2025 5:44:17 PM com.example.gradleproject1.Advertiser submitDetails
+INFO: Advertiser details submitted: 1
+Jan 05, 2025 5:44:17 PM com.example.gradleproject1.MarketingDepartment submitAdvertForReview
+INFO: Marketing Jane submitting validated advert ID: 101
+Jan 05, 2025 5:44:17 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ReviewAdvertCommand
+Jan 05, 2025 5:44:17 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ReviewAdvertCommand
+Jan 05, 2025 5:44:17 PM com.example.gradleproject1.Editor reviewAdvertisement
+INFO: Editor John reviewing advert ID: 101
+Jan 05, 2025 5:44:17 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ApproveAdvertCommand
+Jan 05, 2025 5:44:17 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ApproveAdvertCommand
+Jan 05, 2025 5:44:17 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 101
+Jan 05, 2025 5:44:17 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ApproveAdvertCommand
+Jan 05, 2025 5:44:17 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ReviewAdvertCommand
+Jan 05, 2025 5:47:47 PM com.example.gradleproject1.Advertiser submitDetails
+INFO: Advertiser details submitted: 1
+Jan 05, 2025 5:47:47 PM com.example.gradleproject1.MarketingDepartment submitAdvertForReview
+INFO: Marketing Jane submitting validated advert ID: 101
+Jan 05, 2025 5:47:47 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ReviewAdvertCommand
+Jan 05, 2025 5:47:47 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ReviewAdvertCommand
+Jan 05, 2025 5:47:47 PM com.example.gradleproject1.Editor reviewAdvertisement
+INFO: Editor John reviewing advert ID: 101
+Jan 05, 2025 5:47:47 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ApproveAdvertCommand
+Jan 05, 2025 5:47:47 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ApproveAdvertCommand
+Jan 05, 2025 5:47:47 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 101
+Jan 05, 2025 5:47:47 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ApproveAdvertCommand
+Jan 05, 2025 5:47:47 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ReviewAdvertCommand
+Jan 05, 2025 5:53:20 PM com.example.gradleproject1.Advertiser submitDetails
+INFO: Advertiser details submitted: 1
+Jan 05, 2025 5:53:20 PM com.example.gradleproject1.MarketingDepartment validateAdvertInput
+INFO: Advertisement validation successful for ID: 101
+Jan 05, 2025 5:53:20 PM com.example.gradleproject1.MarketingDepartment submitAdvertForReview
+INFO: Marketing Jane submitting validated advert ID: 101
+Jan 05, 2025 5:53:20 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ReviewAdvertCommand
+Jan 05, 2025 5:53:20 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ReviewAdvertCommand
+Jan 05, 2025 5:53:20 PM com.example.gradleproject1.Editor reviewAdvertisement
+INFO: Editor John reviewing advert ID: 101
+Jan 05, 2025 5:53:20 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ApproveAdvertCommand
+Jan 05, 2025 5:53:20 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ApproveAdvertCommand
+Jan 05, 2025 5:53:20 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 101
+Jan 05, 2025 5:53:20 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ApproveAdvertCommand
+Jan 05, 2025 5:53:20 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ReviewAdvertCommand
+Jan 05, 2025 5:58:51 PM com.example.gradleproject1.Advertiser submitDetails
+INFO: Advertiser details submitted: 1
+Jan 05, 2025 5:58:51 PM com.example.gradleproject1.MarketingDepartment validateAdvertInput
+INFO: Advertisement validation successful for ID: 101
+Jan 05, 2025 5:58:51 PM com.example.gradleproject1.MarketingDepartment submitAdvertForReview
+INFO: Marketing Jane submitting validated advert ID: 101
+Jan 05, 2025 5:58:51 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ReviewAdvertCommand
+Jan 05, 2025 5:58:51 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ReviewAdvertCommand
+Jan 05, 2025 5:58:51 PM com.example.gradleproject1.Editor reviewAdvertisement
+INFO: Editor John reviewing advert ID: 101
+Jan 05, 2025 5:58:51 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ApproveAdvertCommand
+Jan 05, 2025 5:58:51 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ApproveAdvertCommand
+Jan 05, 2025 5:58:51 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 101
+Jan 05, 2025 5:58:51 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ApproveAdvertCommand
+Jan 05, 2025 5:58:51 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ReviewAdvertCommand
+Jan 05, 2025 6:03:01 PM com.example.gradleproject1.Advertiser submitDetails
+INFO: Advertiser details submitted: 1
+Jan 05, 2025 6:03:01 PM com.example.gradleproject1.MarketingDepartment validateAdvertInput
+INFO: Advertisement validation successful for ID: 101
+Jan 05, 2025 6:03:01 PM com.example.gradleproject1.MarketingDepartment submitAdvertForReview
+INFO: Marketing Jane submitting validated advert ID: 101
+Jan 05, 2025 6:03:01 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ReviewAdvertCommand
+Jan 05, 2025 6:03:01 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ReviewAdvertCommand
+Jan 05, 2025 6:03:01 PM com.example.gradleproject1.Editor reviewAdvertisement
+INFO: Editor John reviewing advert ID: 101
+Jan 05, 2025 6:03:01 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ApproveAdvertCommand
+Jan 05, 2025 6:03:01 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ApproveAdvertCommand
+Jan 05, 2025 6:03:01 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 101
+Jan 05, 2025 6:03:01 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ApproveAdvertCommand
+Jan 05, 2025 6:03:01 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ReviewAdvertCommand
+Jan 05, 2025 6:20:20 PM com.example.gradleproject1.Advertiser submitDetails
+INFO: Advertiser details submitted: 1
+Jan 05, 2025 6:20:20 PM com.example.gradleproject1.MarketingDepartment validateAdvertInput
+INFO: Advertisement validation successful for ID: 101
+Jan 05, 2025 6:20:20 PM com.example.gradleproject1.MarketingDepartment submitAdvertForReview
+INFO: Marketing Jane submitting validated advert ID: 101
+Jan 05, 2025 6:20:20 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ReviewAdvertCommand
+Jan 05, 2025 6:20:20 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ReviewAdvertCommand
+Jan 05, 2025 6:20:20 PM com.example.gradleproject1.Editor reviewAdvertisement
+INFO: Editor John reviewing advert ID: 101
+Jan 05, 2025 6:20:20 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ApproveAdvertCommand
+Jan 05, 2025 6:20:20 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ApproveAdvertCommand
+Jan 05, 2025 6:20:20 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 101
+Jan 05, 2025 6:20:20 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ApproveAdvertCommand
+Jan 05, 2025 6:20:20 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ReviewAdvertCommand
+Jan 05, 2025 6:25:50 PM com.example.gradleproject1.Advertiser submitDetails
+INFO: Advertiser details submitted: 1
+Jan 05, 2025 6:25:50 PM com.example.gradleproject1.MarketingDepartment validateAdvertInput
+INFO: Advertisement validation successful for ID: 101
+Jan 05, 2025 6:25:50 PM com.example.gradleproject1.MarketingDepartment submitAdvertForReview
+INFO: Marketing Jane submitting validated advert ID: 101
+Jan 05, 2025 6:25:50 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ReviewAdvertCommand
+Jan 05, 2025 6:25:50 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ReviewAdvertCommand
+Jan 05, 2025 6:25:50 PM com.example.gradleproject1.Editor reviewAdvertisement
+INFO: Editor John reviewing advert ID: 101
+Jan 05, 2025 6:25:50 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ApproveAdvertCommand
+Jan 05, 2025 6:25:50 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ApproveAdvertCommand
+Jan 05, 2025 6:25:50 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 101
+Jan 05, 2025 6:25:50 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ApproveAdvertCommand
+Jan 05, 2025 6:25:50 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ReviewAdvertCommand
+Jan 05, 2025 6:33:38 PM com.example.gradleproject1.Advertiser submitDetails
+INFO: Advertiser details submitted: 1
+Jan 05, 2025 6:33:38 PM com.example.gradleproject1.MarketingDepartment validateAdvertInput
+INFO: Advertisement validation successful for ID: 101
+Jan 05, 2025 6:33:38 PM com.example.gradleproject1.MarketingDepartment submitAdvertForReview
+INFO: Marketing Jane submitting validated advert ID: 101
+Jan 05, 2025 6:33:38 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ReviewAdvertCommand
+Jan 05, 2025 6:33:38 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ReviewAdvertCommand
+Jan 05, 2025 6:33:38 PM com.example.gradleproject1.Editor reviewAdvertisement
+INFO: Editor John reviewing advert ID: 101
+Jan 05, 2025 6:33:38 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ApproveAdvertCommand
+Jan 05, 2025 6:33:38 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ApproveAdvertCommand
+Jan 05, 2025 6:33:38 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 101
+Jan 05, 2025 6:33:38 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ApproveAdvertCommand
+Jan 05, 2025 6:33:38 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ReviewAdvertCommand
+Jan 05, 2025 7:21:59 PM com.example.gradleproject1.Advertiser submitDetails
+INFO: Advertiser details submitted: 1
+Jan 05, 2025 7:21:59 PM com.example.gradleproject1.MarketingDepartment validateAdvertInput
+INFO: Advertisement validation successful for ID: 101
+Jan 05, 2025 7:21:59 PM com.example.gradleproject1.MarketingDepartment submitAdvertForReview
+INFO: Marketing Jane submitting validated advert ID: 101
+Jan 05, 2025 7:21:59 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ReviewAdvertCommand
+Jan 05, 2025 7:21:59 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ReviewAdvertCommand
+Jan 05, 2025 7:21:59 PM com.example.gradleproject1.Editor reviewAdvertisement
+INFO: Editor John reviewing advert ID: 101
+Jan 05, 2025 7:21:59 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ApproveAdvertCommand
+Jan 05, 2025 7:21:59 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ApproveAdvertCommand
+Jan 05, 2025 7:21:59 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 101
+Jan 05, 2025 7:21:59 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ApproveAdvertCommand
+Jan 05, 2025 7:21:59 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ReviewAdvertCommand
+Jan 05, 2025 8:48:53 PM com.example.gradleproject1.Advertiser submitDetails
+INFO: Advertiser details submitted: 1
+Jan 05, 2025 8:48:53 PM com.example.gradleproject1.MarketingDepartment validateAdvertInput
+INFO: Advertisement validation successful for ID: 101
+Jan 05, 2025 8:48:53 PM com.example.gradleproject1.MarketingDepartment submitAdvertForReview
+INFO: Marketing Jane submitting validated advert ID: 101
+Jan 05, 2025 8:48:53 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ReviewAdvertCommand
+Jan 05, 2025 8:48:53 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ReviewAdvertCommand
+Jan 05, 2025 8:48:53 PM com.example.gradleproject1.Editor reviewAdvertisement
+INFO: Editor John reviewing advert ID: 101
+Jan 05, 2025 8:48:53 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ApproveAdvertCommand
+Jan 05, 2025 8:48:53 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ApproveAdvertCommand
+Jan 05, 2025 8:48:53 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 101
+Jan 05, 2025 8:48:53 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ApproveAdvertCommand
+Jan 05, 2025 8:48:53 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ReviewAdvertCommand
+Jan 05, 2025 8:52:16 PM com.example.gradleproject1.Advertiser submitDetails
+INFO: Advertiser details submitted: 1
+Jan 05, 2025 8:52:16 PM com.example.gradleproject1.MarketingDepartment validateAdvertInput
+INFO: Advertisement validation successful for ID: 101
+Jan 05, 2025 8:52:16 PM com.example.gradleproject1.MarketingDepartment submitAdvertForReview
+INFO: Marketing Jane submitting validated advert ID: 101
+Jan 05, 2025 8:52:16 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ReviewAdvertCommand
+Jan 05, 2025 8:52:16 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ReviewAdvertCommand
+Jan 05, 2025 8:52:16 PM com.example.gradleproject1.Editor reviewAdvertisement
+INFO: Editor John reviewing advert ID: 101
+Jan 05, 2025 8:52:16 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ApproveAdvertCommand
+Jan 05, 2025 8:52:16 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ApproveAdvertCommand
+Jan 05, 2025 8:52:16 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 101
+Jan 05, 2025 8:52:16 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ApproveAdvertCommand
+Jan 05, 2025 8:52:16 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ReviewAdvertCommand
+Jan 05, 2025 8:57:41 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+SEVERE: Error storing advertisement: Insufficient storage capacity
+Jan 05, 2025 9:02:58 PM com.example.gradleproject1.Advertiser submitDetails
+INFO: Advertiser details submitted: 1
+Jan 05, 2025 9:02:58 PM com.example.gradleproject1.MarketingDepartment validateAdvertInput
+INFO: Advertisement validation successful for ID: 101
+Jan 05, 2025 9:02:58 PM com.example.gradleproject1.MarketingDepartment submitAdvertForReview
+INFO: Marketing Jane submitting validated advert ID: 101
+Jan 05, 2025 9:02:58 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ReviewAdvertCommand
+Jan 05, 2025 9:02:58 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ReviewAdvertCommand
+Jan 05, 2025 9:02:58 PM com.example.gradleproject1.Editor reviewAdvertisement
+INFO: Editor John reviewing advert ID: 101
+Jan 05, 2025 9:02:58 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ApproveAdvertCommand
+Jan 05, 2025 9:02:58 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ApproveAdvertCommand
+Jan 05, 2025 9:02:58 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 101
+Jan 05, 2025 9:02:58 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ApproveAdvertCommand
+Jan 05, 2025 9:02:58 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ReviewAdvertCommand
+Jan 05, 2025 9:02:58 PM com.example.gradleproject1.Advertiser submitDetails
+INFO: Advertiser details submitted: 1
+Jan 05, 2025 9:03:23 PM com.example.gradleproject1.Advertiser submitDetails
+INFO: Advertiser details submitted: 1
+Jan 05, 2025 9:03:23 PM com.example.gradleproject1.MarketingDepartment validateAdvertInput
+INFO: Advertisement validation successful for ID: 101
+Jan 05, 2025 9:03:23 PM com.example.gradleproject1.MarketingDepartment submitAdvertForReview
+INFO: Marketing Jane submitting validated advert ID: 101
+Jan 05, 2025 9:03:23 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ReviewAdvertCommand
+Jan 05, 2025 9:03:23 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ReviewAdvertCommand
+Jan 05, 2025 9:03:23 PM com.example.gradleproject1.Editor reviewAdvertisement
+INFO: Editor John reviewing advert ID: 101
+Jan 05, 2025 9:03:23 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ApproveAdvertCommand
+Jan 05, 2025 9:03:23 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ApproveAdvertCommand
+Jan 05, 2025 9:03:23 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 101
+Jan 05, 2025 9:03:23 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ApproveAdvertCommand
+Jan 05, 2025 9:03:23 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ReviewAdvertCommand
+Jan 05, 2025 9:03:31 PM com.example.gradleproject1.Advertiser submitDetails
+INFO: Advertiser details submitted: 1
+Jan 05, 2025 9:03:31 PM com.example.gradleproject1.MarketingDepartment validateAdvertInput
+INFO: Advertisement validation successful for ID: 101
+Jan 05, 2025 9:03:31 PM com.example.gradleproject1.MarketingDepartment submitAdvertForReview
+INFO: Marketing Jane submitting validated advert ID: 101
+Jan 05, 2025 9:03:31 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ReviewAdvertCommand
+Jan 05, 2025 9:03:31 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ReviewAdvertCommand
+Jan 05, 2025 9:03:31 PM com.example.gradleproject1.Editor reviewAdvertisement
+INFO: Editor John reviewing advert ID: 101
+Jan 05, 2025 9:03:31 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ApproveAdvertCommand
+Jan 05, 2025 9:03:31 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ApproveAdvertCommand
+Jan 05, 2025 9:03:31 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 101
+Jan 05, 2025 9:03:31 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ApproveAdvertCommand
+Jan 05, 2025 9:03:31 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ReviewAdvertCommand
+Jan 05, 2025 9:07:07 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+SEVERE: Error storing advertisement: Insufficient storage capacity
+Jan 05, 2025 9:09:46 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 103
+Jan 05, 2025 9:18:35 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+SEVERE: Error storing advertisement: Insufficient storage capacity
+Jan 05, 2025 9:33:32 PM com.example.gradleproject1.MarketingDepartment validateAdvertInput
+INFO: Advertisement validation successful for ID: 103
+Jan 05, 2025 9:33:32 PM com.example.gradleproject1.MarketingDepartment submitAdvertForReview
+INFO: Marketing Marketing Name submitting validated advert ID: 103
+Jan 05, 2025 9:33:32 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ReviewAdvertCommand
+Jan 05, 2025 9:33:32 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ReviewAdvertCommand
+Jan 05, 2025 9:33:32 PM com.example.gradleproject1.Editor reviewAdvertisement
+INFO: Editor Editor Name reviewing advert ID: 103
+Jan 05, 2025 9:33:32 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ApproveAdvertCommand
+Jan 05, 2025 9:33:32 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ApproveAdvertCommand
+Jan 05, 2025 9:33:32 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 103
+Jan 05, 2025 9:33:32 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ApproveAdvertCommand
+Jan 05, 2025 9:33:32 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ReviewAdvertCommand
+Jan 05, 2025 9:43:08 PM com.example.gradleproject1.Advertiser submitDetails
+INFO: Advertiser details submitted: 1
+Jan 05, 2025 9:43:08 PM com.example.gradleproject1.MarketingDepartment validateAdvertInput
+INFO: Advertisement validation successful for ID: 101
+Jan 05, 2025 9:43:08 PM com.example.gradleproject1.MarketingDepartment submitAdvertForReview
+INFO: Marketing Jane submitting validated advert ID: 101
+Jan 05, 2025 9:43:08 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ReviewAdvertCommand
+Jan 05, 2025 9:43:08 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ReviewAdvertCommand
+Jan 05, 2025 9:43:08 PM com.example.gradleproject1.Editor reviewAdvertisement
+INFO: Editor John reviewing advert ID: 101
+Jan 05, 2025 9:43:08 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ApproveAdvertCommand
+Jan 05, 2025 9:43:08 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ApproveAdvertCommand
+Jan 05, 2025 9:43:08 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 101
+Jan 05, 2025 9:43:08 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ApproveAdvertCommand
+Jan 05, 2025 9:43:08 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ReviewAdvertCommand
+Jan 05, 2025 9:43:33 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+SEVERE: Error storing advertisement: Insufficient storage capacity
+Jan 05, 2025 9:47:20 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+SEVERE: Error storing advertisement: Insufficient storage capacity
+Jan 05, 2025 10:15:26 PM com.example.gradleproject1.Advertiser submitDetails
+INFO: Advertiser details submitted: 1
+Jan 05, 2025 10:15:26 PM com.example.gradleproject1.MarketingDepartment validateAdvertInput
+INFO: Advertisement validation successful for ID: 101
+Jan 05, 2025 10:15:26 PM com.example.gradleproject1.MarketingDepartment submitAdvertForReview
+INFO: Marketing Jane submitting validated advert ID: 101
+Jan 05, 2025 10:15:26 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ReviewAdvertCommand
+Jan 05, 2025 10:15:26 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ReviewAdvertCommand
+Jan 05, 2025 10:15:26 PM com.example.gradleproject1.Editor reviewAdvertisement
+INFO: Editor John reviewing advert ID: 101
+Jan 05, 2025 10:15:26 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ApproveAdvertCommand
+Jan 05, 2025 10:15:26 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ApproveAdvertCommand
+Jan 05, 2025 10:15:26 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 101
+Jan 05, 2025 10:15:26 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ApproveAdvertCommand
+Jan 05, 2025 10:15:26 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ReviewAdvertCommand
+Jan 05, 2025 10:18:10 PM com.example.gradleproject1.Advertiser submitDetails
+INFO: Advertiser details submitted: 1
+Jan 05, 2025 10:18:10 PM com.example.gradleproject1.MarketingDepartment validateAdvertInput
+INFO: Advertisement validation successful for ID: 101
+Jan 05, 2025 10:18:10 PM com.example.gradleproject1.MarketingDepartment submitAdvertForReview
+INFO: Marketing Jane submitting validated advert ID: 101
+Jan 05, 2025 10:18:10 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ReviewAdvertCommand
+Jan 05, 2025 10:18:10 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ReviewAdvertCommand
+Jan 05, 2025 10:18:10 PM com.example.gradleproject1.Editor reviewAdvertisement
+INFO: Editor John reviewing advert ID: 101
+Jan 05, 2025 10:18:10 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ApproveAdvertCommand
+Jan 05, 2025 10:18:10 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ApproveAdvertCommand
+Jan 05, 2025 10:18:10 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 101
+Jan 05, 2025 10:18:10 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ApproveAdvertCommand
+Jan 05, 2025 10:18:10 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ReviewAdvertCommand
+Jan 05, 2025 10:19:15 PM com.example.gradleproject1.Advertiser submitDetails
+INFO: Advertiser details submitted: 1
+Jan 05, 2025 10:19:15 PM com.example.gradleproject1.MarketingDepartment validateAdvertInput
+INFO: Advertisement validation successful for ID: 101
+Jan 05, 2025 10:19:15 PM com.example.gradleproject1.MarketingDepartment submitAdvertForReview
+INFO: Marketing Jane submitting validated advert ID: 101
+Jan 05, 2025 10:19:15 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ReviewAdvertCommand
+Jan 05, 2025 10:19:15 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ReviewAdvertCommand
+Jan 05, 2025 10:19:15 PM com.example.gradleproject1.Editor reviewAdvertisement
+INFO: Editor John reviewing advert ID: 101
+Jan 05, 2025 10:19:15 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ApproveAdvertCommand
+Jan 05, 2025 10:19:15 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ApproveAdvertCommand
+Jan 05, 2025 10:19:15 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 101
+Jan 05, 2025 10:19:15 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ApproveAdvertCommand
+Jan 05, 2025 10:19:15 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ReviewAdvertCommand
+Jan 05, 2025 10:26:37 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+SEVERE: Error storing advertisement: Insufficient storage capacity
+Jan 05, 2025 10:26:59 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 103
+Jan 06, 2025 11:33:15 AM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 103
+Jan 06, 2025 11:35:53 AM com.example.gradleproject1.ProcessingCenter storeAdvert
+SEVERE: Error storing advertisement: Insufficient storage capacity
+Jan 06, 2025 11:51:03 AM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 103
+Jan 06, 2025 11:51:21 AM com.example.gradleproject1.ProcessingCenter storeAdvert
+SEVERE: Error storing advertisement: Insufficient storage capacity
+Jan 06, 2025 3:29:53 PM com.example.gradleproject1.Advertiser submitDetails
+INFO: Advertiser details submitted: 1
+Jan 06, 2025 3:29:53 PM com.example.gradleproject1.MarketingDepartment validateAdvertInput
+INFO: Advertisement validation successful for ID: 101
+Jan 06, 2025 3:29:53 PM com.example.gradleproject1.MarketingDepartment submitAdvertForReview
+INFO: Marketing Jane submitting validated advert ID: 101
+Jan 06, 2025 3:29:53 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ReviewAdvertCommand
+Jan 06, 2025 3:29:53 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ReviewAdvertCommand
+Jan 06, 2025 3:29:53 PM com.example.gradleproject1.Editor reviewAdvertisement
+INFO: Editor John reviewing advert ID: 101
+Jan 06, 2025 3:29:53 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ApproveAdvertCommand
+Jan 06, 2025 3:29:53 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ApproveAdvertCommand
+Jan 06, 2025 3:29:53 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 101
+Jan 06, 2025 3:29:53 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ApproveAdvertCommand
+Jan 06, 2025 3:29:53 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ReviewAdvertCommand
+Jan 06, 2025 3:30:01 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+SEVERE: Error storing advertisement: Insufficient storage capacity
+Jan 06, 2025 3:36:42 PM com.example.gradleproject1.Editor reviewAdvertisement
+SEVERE: Error in editor review process: Cannot invoke "com.example.gradleproject1.Advertisement.getAdvertID()" because "advert" is null
+Jan 06, 2025 3:36:42 PM com.example.gradleproject1.Editor reviewAdvertisement
+INFO: Editor Test Editor reviewing advert ID: 401
+Jan 06, 2025 3:36:42 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ApproveAdvertCommand
+Jan 06, 2025 3:36:42 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ApproveAdvertCommand
+Jan 06, 2025 3:36:42 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 401
+Jan 06, 2025 3:36:42 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ApproveAdvertCommand
+Jan 06, 2025 3:36:42 PM com.example.gradleproject1.MarketingDepartment validateAdvertInput
+WARNING: Advertisement validation failed: Advertisement cannot be null
+Jan 06, 2025 3:36:42 PM com.example.gradleproject1.MarketingDepartment validateAdvertInput
+INFO: Advertisement validation successful for ID: 501
+Jan 06, 2025 3:36:42 PM com.example.gradleproject1.MarketingDepartment submitAdvertForReview
+INFO: Marketing Marketing Lead submitting validated advert ID: 501
+Jan 06, 2025 3:36:42 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ReviewAdvertCommand
+Jan 06, 2025 3:36:42 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ReviewAdvertCommand
+Jan 06, 2025 3:36:42 PM com.example.gradleproject1.Editor reviewAdvertisement
+INFO: Editor Marketing Editor reviewing advert ID: 501
+Jan 06, 2025 3:36:42 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ApproveAdvertCommand
+Jan 06, 2025 3:36:42 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ApproveAdvertCommand
+Jan 06, 2025 3:36:42 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 501
+Jan 06, 2025 3:36:42 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ApproveAdvertCommand
+Jan 06, 2025 3:36:42 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ReviewAdvertCommand
+Jan 06, 2025 3:36:42 PM com.example.gradleproject1.SystemManager setCommand
+SEVERE: Error setting command: Command cannot be null
+Jan 06, 2025 3:36:42 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ApproveAdvertCommand
+Jan 06, 2025 3:36:42 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ApproveAdvertCommand
+Jan 06, 2025 3:36:42 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 601
+Jan 06, 2025 3:36:42 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ApproveAdvertCommand
+Jan 06, 2025 3:36:42 PM com.example.gradleproject1.Advertiser submitDetails
+INFO: Advertiser details submitted: 1
+Jan 06, 2025 3:36:42 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+SEVERE: Error storing advertisement: Insufficient storage capacity
+Jan 06, 2025 3:36:42 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+SEVERE: Error storing advertisement: Insufficient storage capacity
+Jan 06, 2025 5:42:33 PM com.example.gradleproject1.Advertiser submitDetails
+INFO: Advertiser details submitted: 1
+Jan 06, 2025 5:42:33 PM com.example.gradleproject1.MarketingDepartment validateAdvertInput
+INFO: Advertisement validation successful for ID: 101
+Jan 06, 2025 5:42:33 PM com.example.gradleproject1.MarketingDepartment submitAdvertForReview
+INFO: Marketing Jane submitting validated advert ID: 101
+Jan 06, 2025 5:42:33 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ReviewAdvertCommand
+Jan 06, 2025 5:42:33 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ReviewAdvertCommand
+Jan 06, 2025 5:42:33 PM com.example.gradleproject1.Editor reviewAdvertisement
+INFO: Editor John reviewing advert ID: 101
+Jan 06, 2025 5:42:33 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ApproveAdvertCommand
+Jan 06, 2025 5:42:33 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ApproveAdvertCommand
+Jan 06, 2025 5:42:33 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 101
+Jan 06, 2025 5:42:33 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ApproveAdvertCommand
+Jan 06, 2025 5:42:33 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ReviewAdvertCommand
+Jan 06, 2025 5:48:24 PM com.example.gradleproject1.Editor reviewAdvertisement
+SEVERE: Error in editor review process: Cannot invoke "com.example.gradleproject1.Advertisement.getAdvertID()" because "advert" is null
+Jan 06, 2025 5:48:24 PM com.example.gradleproject1.Editor reviewAdvertisement
+INFO: Editor Test Editor reviewing advert ID: 401
+Jan 06, 2025 5:48:24 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ApproveAdvertCommand
+Jan 06, 2025 5:48:24 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ApproveAdvertCommand
+Jan 06, 2025 5:48:24 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 401
+Jan 06, 2025 5:48:24 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ApproveAdvertCommand
+Jan 06, 2025 5:48:24 PM com.example.gradleproject1.MarketingDepartment validateAdvertInput
+WARNING: Advertisement validation failed: Advertisement cannot be null
+Jan 06, 2025 5:48:24 PM com.example.gradleproject1.MarketingDepartment validateAdvertInput
+INFO: Advertisement validation successful for ID: 501
+Jan 06, 2025 5:48:24 PM com.example.gradleproject1.MarketingDepartment submitAdvertForReview
+INFO: Marketing Marketing Lead submitting validated advert ID: 501
+Jan 06, 2025 5:48:24 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ReviewAdvertCommand
+Jan 06, 2025 5:48:24 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ReviewAdvertCommand
+Jan 06, 2025 5:48:24 PM com.example.gradleproject1.Editor reviewAdvertisement
+INFO: Editor Marketing Editor reviewing advert ID: 501
+Jan 06, 2025 5:48:24 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ApproveAdvertCommand
+Jan 06, 2025 5:48:24 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ApproveAdvertCommand
+Jan 06, 2025 5:48:24 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 501
+Jan 06, 2025 5:48:24 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ApproveAdvertCommand
+Jan 06, 2025 5:48:24 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ReviewAdvertCommand
+Jan 06, 2025 5:48:24 PM com.example.gradleproject1.SystemManager setCommand
+SEVERE: Error setting command: Command cannot be null
+Jan 06, 2025 5:48:24 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ApproveAdvertCommand
+Jan 06, 2025 5:48:24 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ApproveAdvertCommand
+Jan 06, 2025 5:48:24 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 601
+Jan 06, 2025 5:48:24 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ApproveAdvertCommand
+Jan 06, 2025 5:48:24 PM com.example.gradleproject1.Advertiser submitDetails
+INFO: Advertiser details submitted: 1
+Jan 06, 2025 5:48:24 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+SEVERE: Error storing advertisement: Insufficient storage capacity
+Jan 06, 2025 5:48:24 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+SEVERE: Error storing advertisement: Insufficient storage capacity
+Jan 06, 2025 5:54:27 PM com.example.gradleproject1.Advertiser submitDetails
+INFO: Advertiser details submitted: 1
+Jan 06, 2025 5:54:27 PM com.example.gradleproject1.MarketingDepartment validateAdvertInput
+INFO: Advertisement validation successful for ID: 101
+Jan 06, 2025 5:54:27 PM com.example.gradleproject1.MarketingDepartment submitAdvertForReview
+INFO: Marketing Jane submitting validated advert ID: 101
+Jan 06, 2025 5:54:27 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ReviewAdvertCommand
+Jan 06, 2025 5:54:27 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ReviewAdvertCommand
+Jan 06, 2025 5:54:27 PM com.example.gradleproject1.Editor reviewAdvertisement
+INFO: Editor John reviewing advert ID: 101
+Jan 06, 2025 5:54:27 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ApproveAdvertCommand
+Jan 06, 2025 5:54:27 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ApproveAdvertCommand
+Jan 06, 2025 5:54:27 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 101
+Jan 06, 2025 5:54:27 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ApproveAdvertCommand
+Jan 06, 2025 5:54:27 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ReviewAdvertCommand
+Jan 06, 2025 9:46:17 PM com.example.gradleproject1.Advertiser submitDetails
+INFO: Advertiser details submitted: 1
+Jan 06, 2025 9:46:17 PM com.example.gradleproject1.App main
+SEVERE: Error in main: Publication date must be in the future
+Jan 06, 2025 9:46:33 PM com.example.gradleproject1.Advertiser submitDetails
+INFO: Advertiser details submitted: 1
+Jan 06, 2025 9:46:33 PM com.example.gradleproject1.MarketingDepartment validateAdvertInput
+INFO: Advertisement validation successful for ID: 101
+Jan 06, 2025 9:46:33 PM com.example.gradleproject1.MarketingDepartment submitAdvertForReview
+INFO: Marketing Jane submitting validated advert ID: 101
+Jan 06, 2025 9:46:33 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ReviewAdvertCommand
+Jan 06, 2025 9:46:33 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ReviewAdvertCommand
+Jan 06, 2025 9:46:33 PM com.example.gradleproject1.Editor reviewAdvertisement
+INFO: Editor John reviewing advert ID: 101
+Jan 06, 2025 9:46:33 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ApproveAdvertCommand
+Jan 06, 2025 9:46:33 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ApproveAdvertCommand
+Jan 06, 2025 9:46:33 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 101
+Jan 06, 2025 9:46:33 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ApproveAdvertCommand
+Jan 06, 2025 9:46:33 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ReviewAdvertCommand
+Jan 06, 2025 9:52:09 PM com.example.gradleproject1.Advertiser submitDetails
+INFO: Advertiser details submitted: 1
+Jan 06, 2025 9:52:09 PM com.example.gradleproject1.MarketingDepartment validateAdvertInput
+INFO: Advertisement validation successful for ID: 101
+Jan 06, 2025 9:52:09 PM com.example.gradleproject1.MarketingDepartment submitAdvertForReview
+INFO: Marketing Jane submitting validated advert ID: 101
+Jan 06, 2025 9:52:09 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ReviewAdvertCommand
+Jan 06, 2025 9:52:09 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ReviewAdvertCommand
+Jan 06, 2025 9:52:09 PM com.example.gradleproject1.Editor reviewAdvertisement
+INFO: Editor John reviewing advert ID: 101
+Jan 06, 2025 9:52:09 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ApproveAdvertCommand
+Jan 06, 2025 9:52:09 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ApproveAdvertCommand
+Jan 06, 2025 9:52:09 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 101
+Jan 06, 2025 9:52:09 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ApproveAdvertCommand
+Jan 06, 2025 9:52:09 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ReviewAdvertCommand
+Jan 06, 2025 10:00:00 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+SEVERE: Error storing advertisement: Insufficient storage capacity
+Jan 06, 2025 10:08:10 PM com.example.gradleproject1.Advertiser submitDetails
+INFO: Advertiser details submitted: 1
+Jan 06, 2025 10:08:10 PM com.example.gradleproject1.MarketingDepartment validateAdvertInput
+INFO: Advertisement validation successful for ID: 101
+Jan 06, 2025 10:08:10 PM com.example.gradleproject1.MarketingDepartment submitAdvertForReview
+INFO: Marketing Jane submitting validated advert ID: 101
+Jan 06, 2025 10:08:10 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ReviewAdvertCommand
+Jan 06, 2025 10:08:10 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ReviewAdvertCommand
+Jan 06, 2025 10:08:10 PM com.example.gradleproject1.Editor reviewAdvertisement
+INFO: Editor John reviewing advert ID: 101
+Jan 06, 2025 10:08:10 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ApproveAdvertCommand
+Jan 06, 2025 10:08:10 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ApproveAdvertCommand
+Jan 06, 2025 10:08:10 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 101
+Jan 06, 2025 10:08:10 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ApproveAdvertCommand
+Jan 06, 2025 10:08:10 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ReviewAdvertCommand
+Jan 06, 2025 10:08:37 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+SEVERE: Error storing advertisement: Insufficient storage capacity
+Jan 06, 2025 10:08:57 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+SEVERE: Error storing advertisement: Insufficient storage capacity
+Jan 06, 2025 10:09:14 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 103
+Jan 06, 2025 10:11:59 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 103
+Jan 06, 2025 10:12:30 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 103
+Jan 06, 2025 10:18:07 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 103
+Jan 06, 2025 10:18:35 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+SEVERE: Error storing advertisement: Insufficient storage capacity
+Jan 06, 2025 10:19:39 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+SEVERE: Error storing advertisement: Insufficient storage capacity
+Jan 06, 2025 10:20:15 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 103
+Jan 06, 2025 10:20:36 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+SEVERE: Error storing advertisement: Insufficient storage capacity
+Jan 06, 2025 10:21:05 PM com.example.gradleproject1.Advertiser submitDetails
+INFO: Advertiser details submitted: 1
+Jan 06, 2025 10:21:05 PM com.example.gradleproject1.MarketingDepartment validateAdvertInput
+INFO: Advertisement validation successful for ID: 101
+Jan 06, 2025 10:21:05 PM com.example.gradleproject1.MarketingDepartment submitAdvertForReview
+INFO: Marketing Jane submitting validated advert ID: 101
+Jan 06, 2025 10:21:05 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ReviewAdvertCommand
+Jan 06, 2025 10:21:05 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ReviewAdvertCommand
+Jan 06, 2025 10:21:05 PM com.example.gradleproject1.Editor reviewAdvertisement
+INFO: Editor John reviewing advert ID: 101
+Jan 06, 2025 10:21:05 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ApproveAdvertCommand
+Jan 06, 2025 10:21:05 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ApproveAdvertCommand
+Jan 06, 2025 10:21:05 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 101
+Jan 06, 2025 10:21:05 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ApproveAdvertCommand
+Jan 06, 2025 10:21:05 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ReviewAdvertCommand
+Jan 06, 2025 10:21:14 PM com.example.gradleproject1.Advertiser submitDetails
+INFO: Advertiser details submitted: 1
+Jan 06, 2025 10:21:15 PM com.example.gradleproject1.MarketingDepartment validateAdvertInput
+INFO: Advertisement validation successful for ID: 101
+Jan 06, 2025 10:21:15 PM com.example.gradleproject1.MarketingDepartment submitAdvertForReview
+INFO: Marketing Jane submitting validated advert ID: 101
+Jan 06, 2025 10:21:15 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ReviewAdvertCommand
+Jan 06, 2025 10:21:15 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ReviewAdvertCommand
+Jan 06, 2025 10:21:15 PM com.example.gradleproject1.Editor reviewAdvertisement
+INFO: Editor John reviewing advert ID: 101
+Jan 06, 2025 10:21:15 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ApproveAdvertCommand
+Jan 06, 2025 10:21:15 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ApproveAdvertCommand
+Jan 06, 2025 10:21:15 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+SEVERE: Error storing advertisement: Insufficient storage capacity
+Jan 06, 2025 10:21:15 PM com.example.gradleproject1.SystemManager executeCommands
+SEVERE: Error executing commands: Insufficient storage capacity
+Jan 06, 2025 10:21:15 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ReviewAdvertCommand
+Jan 06, 2025 10:21:26 PM com.example.gradleproject1.Advertiser submitDetails
+INFO: Advertiser details submitted: 1
+Jan 06, 2025 10:21:26 PM com.example.gradleproject1.MarketingDepartment validateAdvertInput
+INFO: Advertisement validation successful for ID: 101
+Jan 06, 2025 10:21:26 PM com.example.gradleproject1.MarketingDepartment submitAdvertForReview
+INFO: Marketing Jane submitting validated advert ID: 101
+Jan 06, 2025 10:21:26 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ReviewAdvertCommand
+Jan 06, 2025 10:21:26 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ReviewAdvertCommand
+Jan 06, 2025 10:21:26 PM com.example.gradleproject1.Editor reviewAdvertisement
+INFO: Editor John reviewing advert ID: 101
+Jan 06, 2025 10:21:26 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ApproveAdvertCommand
+Jan 06, 2025 10:21:26 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ApproveAdvertCommand
+Jan 06, 2025 10:21:26 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 101
+Jan 06, 2025 10:21:26 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ApproveAdvertCommand
+Jan 06, 2025 10:21:26 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ReviewAdvertCommand
+Jan 06, 2025 10:23:51 PM com.example.gradleproject1.Advertiser submitDetails
+INFO: Advertiser details submitted: 1
+Jan 06, 2025 10:23:51 PM com.example.gradleproject1.MarketingDepartment validateAdvertInput
+INFO: Advertisement validation successful for ID: 101
+Jan 06, 2025 10:23:51 PM com.example.gradleproject1.MarketingDepartment submitAdvertForReview
+INFO: Marketing Jane submitting validated advert ID: 101
+Jan 06, 2025 10:23:51 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ReviewAdvertCommand
+Jan 06, 2025 10:23:51 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ReviewAdvertCommand
+Jan 06, 2025 10:23:51 PM com.example.gradleproject1.Editor reviewAdvertisement
+INFO: Editor John reviewing advert ID: 101
+Jan 06, 2025 10:23:51 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ApproveAdvertCommand
+Jan 06, 2025 10:23:51 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ApproveAdvertCommand
+Jan 06, 2025 10:23:51 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 101
+Jan 06, 2025 10:23:51 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ApproveAdvertCommand
+Jan 06, 2025 10:23:51 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ReviewAdvertCommand
+Jan 06, 2025 10:24:03 PM com.example.gradleproject1.Advertiser submitDetails
+INFO: Advertiser details submitted: 1
+Jan 06, 2025 10:24:03 PM com.example.gradleproject1.MarketingDepartment validateAdvertInput
+INFO: Advertisement validation successful for ID: 101
+Jan 06, 2025 10:24:03 PM com.example.gradleproject1.MarketingDepartment submitAdvertForReview
+INFO: Marketing Jane submitting validated advert ID: 101
+Jan 06, 2025 10:24:03 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ReviewAdvertCommand
+Jan 06, 2025 10:24:03 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ReviewAdvertCommand
+Jan 06, 2025 10:24:03 PM com.example.gradleproject1.Editor reviewAdvertisement
+INFO: Editor John reviewing advert ID: 101
+Jan 06, 2025 10:24:03 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ApproveAdvertCommand
+Jan 06, 2025 10:24:03 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ApproveAdvertCommand
+Jan 06, 2025 10:24:03 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+SEVERE: Error storing advertisement: Insufficient storage capacity
+Jan 06, 2025 10:24:03 PM com.example.gradleproject1.SystemManager executeCommands
+SEVERE: Error executing commands: Insufficient storage capacity
+Jan 06, 2025 10:24:03 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ReviewAdvertCommand
+Jan 06, 2025 10:24:09 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 103
+Jan 06, 2025 10:24:35 PM com.example.gradleproject1.Advertiser submitDetails
+INFO: Advertiser details submitted: 1
+Jan 06, 2025 10:24:35 PM com.example.gradleproject1.MarketingDepartment validateAdvertInput
+INFO: Advertisement validation successful for ID: 101
+Jan 06, 2025 10:24:35 PM com.example.gradleproject1.MarketingDepartment submitAdvertForReview
+INFO: Marketing Jane submitting validated advert ID: 101
+Jan 06, 2025 10:24:35 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ReviewAdvertCommand
+Jan 06, 2025 10:24:35 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ReviewAdvertCommand
+Jan 06, 2025 10:24:35 PM com.example.gradleproject1.Editor reviewAdvertisement
+INFO: Editor John reviewing advert ID: 101
+Jan 06, 2025 10:24:35 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ApproveAdvertCommand
+Jan 06, 2025 10:24:35 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ApproveAdvertCommand
+Jan 06, 2025 10:24:35 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 101
+Jan 06, 2025 10:24:35 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ApproveAdvertCommand
+Jan 06, 2025 10:24:35 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ReviewAdvertCommand
+Jan 06, 2025 11:02:17 PM com.example.gradleproject1.Advertiser submitDetails
+INFO: Advertiser details submitted: 1
+Jan 06, 2025 11:02:17 PM com.example.gradleproject1.MarketingDepartment validateAdvertInput
+INFO: Advertisement validation successful for ID: 101
+Jan 06, 2025 11:02:17 PM com.example.gradleproject1.MarketingDepartment submitAdvertForReview
+INFO: Marketing Jane submitting validated advert ID: 101
+Jan 06, 2025 11:02:17 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ReviewAdvertCommand
+Jan 06, 2025 11:02:17 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ReviewAdvertCommand
+Jan 06, 2025 11:02:17 PM com.example.gradleproject1.Editor reviewAdvertisement
+INFO: Editor John reviewing advert ID: 101
+Jan 06, 2025 11:02:17 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ApproveAdvertCommand
+Jan 06, 2025 11:02:17 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ApproveAdvertCommand
+Jan 06, 2025 11:02:17 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 101
+Jan 06, 2025 11:02:17 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ApproveAdvertCommand
+Jan 06, 2025 11:02:17 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ReviewAdvertCommand
+Jan 06, 2025 11:03:55 PM com.example.gradleproject1.Advertiser submitDetails
+INFO: Advertiser details submitted: 1
+Jan 06, 2025 11:03:55 PM com.example.gradleproject1.MarketingDepartment validateAdvertInput
+INFO: Advertisement validation successful for ID: 101
+Jan 06, 2025 11:03:55 PM com.example.gradleproject1.MarketingDepartment submitAdvertForReview
+INFO: Marketing Jane submitting validated advert ID: 101
+Jan 06, 2025 11:03:55 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ReviewAdvertCommand
+Jan 06, 2025 11:03:55 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ReviewAdvertCommand
+Jan 06, 2025 11:03:55 PM com.example.gradleproject1.Editor reviewAdvertisement
+INFO: Editor John reviewing advert ID: 101
+Jan 06, 2025 11:03:55 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ApproveAdvertCommand
+Jan 06, 2025 11:03:55 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ApproveAdvertCommand
+Jan 06, 2025 11:03:55 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 101
+Jan 06, 2025 11:03:55 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ApproveAdvertCommand
+Jan 06, 2025 11:03:55 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ReviewAdvertCommand
+Jan 07, 2025 9:31:05 PM com.example.gradleproject1.Advertiser submitDetails
+INFO: Advertiser details submitted: 1
+Jan 07, 2025 9:31:05 PM com.example.gradleproject1.MarketingDepartment validateAdvertInput
+INFO: Advertisement validation successful for ID: 101
+Jan 07, 2025 9:31:05 PM com.example.gradleproject1.MarketingDepartment submitAdvertForReview
+INFO: Marketing Jane submitting validated advert ID: 101
+Jan 07, 2025 9:31:05 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ReviewAdvertCommand
+Jan 07, 2025 9:31:05 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ReviewAdvertCommand
+Jan 07, 2025 9:31:05 PM com.example.gradleproject1.Editor reviewAdvertisement
+INFO: Editor John reviewing advert ID: 101
+Jan 07, 2025 9:31:05 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ApproveAdvertCommand
+Jan 07, 2025 9:31:05 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ApproveAdvertCommand
+Jan 07, 2025 9:31:05 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 101
+Jan 07, 2025 9:31:05 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ApproveAdvertCommand
+Jan 07, 2025 9:31:05 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ReviewAdvertCommand
+Jan 07, 2025 9:33:32 PM com.example.gradleproject1.Advertiser submitDetails
+INFO: Advertiser details submitted: 1
+Jan 07, 2025 9:33:32 PM com.example.gradleproject1.MarketingDepartment validateAdvertInput
+INFO: Advertisement validation successful for ID: 101
+Jan 07, 2025 9:33:32 PM com.example.gradleproject1.MarketingDepartment submitAdvertForReview
+INFO: Marketing Jane submitting validated advert ID: 101
+Jan 07, 2025 9:33:32 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ReviewAdvertCommand
+Jan 07, 2025 9:33:32 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ReviewAdvertCommand
+Jan 07, 2025 9:33:32 PM com.example.gradleproject1.Editor reviewAdvertisement
+INFO: Editor John reviewing advert ID: 101
+Jan 07, 2025 9:33:32 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ApproveAdvertCommand
+Jan 07, 2025 9:33:32 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ApproveAdvertCommand
+Jan 07, 2025 9:33:32 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 101
+Jan 07, 2025 9:33:32 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ApproveAdvertCommand
+Jan 07, 2025 9:33:32 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ReviewAdvertCommand
+Jan 07, 2025 9:33:49 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+SEVERE: Error storing advertisement: Insufficient storage capacity
+Jan 07, 2025 10:21:12 PM com.example.gradleproject1.Advertiser submitDetails
+INFO: Advertiser details submitted: 1
+Jan 07, 2025 10:21:13 PM com.example.gradleproject1.MarketingDepartment validateAdvertInput
+INFO: Advertisement validation successful for ID: 101
+Jan 07, 2025 10:21:13 PM com.example.gradleproject1.MarketingDepartment submitAdvertForReview
+INFO: Marketing Jane submitting validated advert ID: 101
+Jan 07, 2025 10:21:13 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ReviewAdvertCommand
+Jan 07, 2025 10:21:13 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ReviewAdvertCommand
+Jan 07, 2025 10:21:13 PM com.example.gradleproject1.Editor reviewAdvertisement
+INFO: Editor John reviewing advert ID: 101
+Jan 07, 2025 10:21:13 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue: ApproveAdvertCommand
+Jan 07, 2025 10:21:13 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Executing command: ApproveAdvertCommand
+Jan 07, 2025 10:21:13 PM com.example.gradleproject1.ProcessingCenter storeAdvert
+INFO: Stored approved advert ID: 101
+Jan 07, 2025 10:21:13 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ApproveAdvertCommand
+Jan 07, 2025 10:21:13 PM com.example.gradleproject1.BaseAdvertCommand execute
+INFO: Completed command: ReviewAdvertCommand

@@ -1,0 +1,40 @@
+Jan 04, 2025 10:46:49 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue
+Jan 04, 2025 10:46:49 PM com.example.gradleproject1.SystemManager executeCommands
+INFO: Command executed and added to history
+Jan 04, 2025 10:46:49 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue
+Jan 04, 2025 10:46:49 PM com.example.gradleproject1.SystemManager executeCommands
+INFO: Command executed and added to history
+Jan 04, 2025 10:53:00 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue
+Jan 04, 2025 10:53:00 PM com.example.gradleproject1.SystemManager executeCommands
+INFO: Command executed and added to history
+Jan 04, 2025 10:53:00 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue
+Jan 04, 2025 10:53:00 PM com.example.gradleproject1.SystemManager executeCommands
+INFO: Command executed and added to history
+Jan 04, 2025 10:55:22 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue
+Jan 04, 2025 10:55:22 PM com.example.gradleproject1.SystemManager executeCommands
+INFO: Command executed and added to history
+Jan 04, 2025 10:55:22 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue
+Jan 04, 2025 10:55:22 PM com.example.gradleproject1.SystemManager executeCommands
+INFO: Command executed and added to history
+Jan 04, 2025 10:56:02 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue
+Jan 04, 2025 10:56:02 PM com.example.gradleproject1.SystemManager executeCommands
+INFO: Command executed and added to history
+Jan 04, 2025 10:56:15 PM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue
+Jan 04, 2025 10:56:15 PM com.example.gradleproject1.SystemManager executeCommands
+INFO: Command executed and added to history
+Jan 05, 2025 11:27:21 AM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue
+Jan 05, 2025 11:27:21 AM com.example.gradleproject1.SystemManager executeCommands
+INFO: Command executed and added to history
+Jan 05, 2025 11:27:30 AM com.example.gradleproject1.SystemManager setCommand
+INFO: Command added to queue
+Jan 05, 2025 11:27:30 AM com.example.gradleproject1.SystemManager executeCommands
+INFO: Command executed and added to history

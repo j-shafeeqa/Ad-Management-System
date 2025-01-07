@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.gradleproject1.AdvertisementTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-01-07T17:47:17" hostname="LAPTOP-BT1BO2UR" time="0.046">
+  <properties/>
+  <testcase name="testInvalidAdvertisementCreation()" classname="com.example.gradleproject1.AdvertisementTest" time="0.038"/>
+  <testcase name="testValidAdvertisementCreation()" classname="com.example.gradleproject1.AdvertisementTest" time="0.003"/>
+  <system-out><![CDATA[Test Passed: Exception thrown as expected for invalid advertisement.
+Test Passed: Valid advertisement created successfully.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
