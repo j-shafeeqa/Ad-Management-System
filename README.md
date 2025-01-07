@@ -1,7 +1,7 @@
-# Advertising System Management Platform
+# Advertisement Management System
 
 ## Overview
-The Advertising System Management Platform is a robust and scalable solution designed to streamline the lifecycle of advertisements. This includes submission, validation, approval/rejection, and storage, ensuring seamless collaboration between advertisers, editors, and marketing departments. The system supports multithreading, modular design, and centralized logging for effective and efficient operations.
+The Advertisement Management System is a robust and scalable solution designed to streamline the lifecycle of advertisements. This includes submission, validation, approval/rejection, and storage, ensuring seamless collaboration between advertisers, editors, and marketing departments. The system supports multithreading, modular design, and centralized logging for effective and efficient operations.
 
 ## Features
 
@@ -53,7 +53,7 @@ Advertisements are validated and placed in the appropriate queue based on status
 Editors review ads and decide their outcome, which is logged for auditing.
 
 ### Revision Handling
-Rejected ads are queued for revision, ensuring efficient feedback loops.
+Rejected ads are queued for revision and Marketing Department is notified, ensuring efficient feedback loops.
 
 ---
 
