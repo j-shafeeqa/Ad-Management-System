@@ -41,11 +41,40 @@ The platform is built with a modular design that includes the following core com
 - **Build Tool:** Gradle
 - **Dependencies:** Standard Java libraries for concurrency, logging, and collections.
 
-## Quick Start
+## Example Workflow
 
-### Prerequisites
-1. Install Java 11 or higher.
-2. Install Gradle.
+### Advertiser Registration
+Advertisers can register with their details and submit advertisements.
+
+### Advertisement Submission
+Advertisements are validated and placed in the appropriate queue based on status.
+
+### Approval/Rejection
+Editors review ads and decide their outcome, which is logged for auditing.
+
+### Revision Handling
+Rejected ads are queued for revision, ensuring efficient feedback loops.
+
+---
+
+## Directory Structure
+```scss
+├── src/main/java
+│   ├── com.example.gradleproject1
+│   │   └── App.java                // Main application class containing all logic
+├── src/test/java
+│   ├── com.example.gradleproject1
+│   │   ├── AdvertisementTest.java  // Unit tests for advertisement logic
+│   │   └── ProcessingCenterTest.java // Unit tests for processing center logic
+├── build.gradle
+└── README.md
+```
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).  
+See the `LICENSE` file for more details.
+
 
 
 
