@@ -561,24 +561,71 @@ class SystemManager {
     }
 }
 
-// Main Application class
+// Factory class to handle object creation
+class AdvertisingSystemFactory {
+    private SystemManager systemManager;
+    private ProcessingCenter processingCenter;
+    private Editor editor;
+    private MarketingDepartment marketing;
+    
+    public AdvertisingSystemFactory() {
+        systemManager = new SystemManager();
+        processingCenter = new ProcessingCenter(1);
+        editor = new Editor(1, "John", "+123-456-7890", processingCenter, systemManager);
+        marketing = new MarketingDepartment(2, "Jane", "+123-456-4590", systemManager);
+    }
+    
+    public SystemManager getSystemManager() {
+        return systemManager;
+    }
+    
+    public ProcessingCenter getProcessingCenter() {
+        return processingCenter;
+    }
+    
+    public Editor getEditor() {
+        return editor;
+    }
+    
+    public MarketingDepartment getMarketing() {
+        return marketing;
+    }
+}
+
+// Client class for the Command pattern
 public class App {
+    private final AdvertisingSystemFactory factory;
+    private static final Logger LOGGER = LoggerUtil.getLogger();
+    
+    public App() {
+        this.factory = new AdvertisingSystemFactory();
+    }
+    
+    // Process a single advertisement through the system
+    private void processAdvertisement(Advertisement advertisement) {
+        try {
+            MarketingDepartment marketing = factory.getMarketing();
+            Editor editor = factory.getEditor();
+            
+            System.out.println("\n--- Processing Advertisement ---");
+            marketing.submitAdvertForReview(advertisement, editor);
+            
+        } catch (Exception e) {
+            LOGGER.log(Level.SEVERE, "Error processing advertisement: " + e.getMessage());
+            System.err.println("Error processing advertisement: " + e.getMessage());
+        }
+    }
+    
     public static void main(String[] args) {
         try {
-            // Initialize system components
-            SystemManager systemManager = new SystemManager();
-            ProcessingCenter processingCenter = new ProcessingCenter(1);
+            App client = new App();
             
-            // Create employees
-            Editor editor = new Editor(1, "John", "+123-456-7890", processingCenter, systemManager);
-            MarketingDepartment marketing = new MarketingDepartment(2, "Jane", "+123-456-4590", systemManager);
-            
-            // Create advertiser and submit details
+            // Create test advertiser
             Advertiser advertiser = new Advertiser(1, "ACME Corp", "+123-456-7890", "123 Elm Street");
             advertiser.submitDetails();
             
             // Create test advertisement
-            Advertisement advert1 = new Advertisement(
+            Advertisement testAd = new Advertisement(
                 101,
                 "Test Advertisement Content",
                 100,
@@ -588,12 +635,12 @@ public class App {
                 advertiser
             );
             
-            System.out.println("\n--- Processing Advertisement ---");
-            marketing.submitAdvertForReview(advert1, editor);
+            // Process the advertisement
+            client.processAdvertisement(testAd);
             
         } catch (Exception e) {
-            System.err.println("Error in main: " + e.getMessage());
             LoggerUtil.getLogger().log(Level.SEVERE, "Error in main: " + e.getMessage());
+            System.err.println("Error in main: " + e.getMessage());
         }
     }
 }
